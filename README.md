@@ -1,10 +1,10 @@
 # FORECASTING EXCHANGE RATES USING TIME SERIES ANALYSIS
 
 ## Objective:
-Leverage ARIMA and Exponential Smoothing techniques to forecast future exchange rates based on historical data provided in the exchange_rate.csv dataset. 
+#### Leverage ARIMA and Exponential Smoothing techniques to forecast future exchange rates based on historical data provided in the exchange_rate.csv dataset. 
 
 ## Dataset:
-The dataset contains historical exchange rate with each column representing a different currency rate over time. The first column indicates the date, and second column represent exchange rates USD to Australian Dollar.
+#### The dataset contains historical exchange rate with each column representing a different currency rate over time. The first column indicates the date, and second column represent exchange rates USD to Australian Dollar.
 
 ## Part 1: Data Preparation and Exploration
 ### 1.	Data Loading: Load the exchange_rate.csv dataset and parse the date column appropriately.
@@ -28,12 +28,12 @@ The dataset contains historical exchange rate with each column representing a di
 ### 3.	Conclusion: Summarize the findings and provide insights on which model(s) yielded the best performance for forecasting exchange rates in this dataset.
 
 #### Deliverables:
-•	Include visualizations and explanations for the choices and findings at each step.
-•	Well-commented Python code that used to conduct the analysis and build the models.
+##### •	Include visualizations and explanations for the choices and findings at each step.
+##### •	Well-commented Python code that used to conduct the analysis and build the models.
 
 #### Assessment Criteria:
-•	Accuracy and completeness of the data preparation and exploration steps.
-•	Justification for model selection and parameter tuning decisions.
-•	Clarity and depth of the analysis in the diagnostics and model evaluation stages.
+##### •	Accuracy and completeness of the data preparation and exploration steps.
+##### •	Justification for model selection and parameter tuning decisions.
+##### •	Clarity and depth of the analysis in the diagnostics and model evaluation stages.
 
-This assignment offers a hands-on experience with real-world data, applying sophisticated time series forecasting methods to predict future currency exchange rates.
+##### This assignment offers a hands-on experience with real-world data, applying sophisticated time series forecasting methods to predict future currency exchange rates.
